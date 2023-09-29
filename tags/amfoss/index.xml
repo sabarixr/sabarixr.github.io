@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amfoss on Electroverse</title>
+    <link>https://sabarixr.github.io/tags/amfoss/</link>
+    <description>Recent content in Amfoss on Electroverse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 22:53:58 +0530</lastBuildDate><atom:link href="https://sabarixr.github.io/tags/amfoss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lessgo HUGO</title>
+      <link>https://sabarixr.github.io/blogs/amfossblog/</link>
+      <pubDate>Sun, 03 Sep 2023 22:53:58 +0530</pubDate>
+      
+      <guid>https://sabarixr.github.io/blogs/amfossblog/</guid>
+      <description>Hugo Themes This is a blog written to tell the details about my journey of creating a website as part of the AmFOSS Paraveshan task. In this blog, I talk about the things I went through in creating this website. Even though I am new to this Hugo stuff, it felt simple and literally more efficient and faster way to create a static website without spending too much time on HTML, CSS, and maybe JavaScript.</description>
+    </item>
+    
+  </channel>
+</rss>
