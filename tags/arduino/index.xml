@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arduino on Electroverse</title>
+    <link>https://sabarixr.github.io/tags/arduino/</link>
+    <description>Recent content in Arduino on Electroverse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate><atom:link href="https://sabarixr.github.io/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arduino IDE</title>
+      <link>https://sabarixr.github.io/blogs/indroductionarduino/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      
+      <guid>https://sabarixr.github.io/blogs/indroductionarduino/</guid>
+      <description>Arduino • Arduino IDE is an open-source software, designed by Arduino.cc and mainly used for writing, compiling &amp;amp; uploading code to almost all Arduino Modules.
+• It is an official Arduino software, making code compilation too easy that even a common person with no prior technical knowledge
+• It is available for all operating systems i.e. MAC, Windows, Linux and runs on the Java Platform that comes with inbuilt functions and commands that play a vital role in debugging, editing and compiling the code.</description>
+    </item>
+    
+  </channel>
+</rss>
